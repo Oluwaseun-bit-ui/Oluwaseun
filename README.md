@@ -27,7 +27,7 @@ I'm a passionate Software Engineer / Backend Developer with experience in Python
 
 ### Telemedicine healthcare project https://drive.google.com/file/d/16nCp57MerFhLQ6nRIjepfOYt3z65CdOA/view?usp=sharing
 
-(https://drive.google.com/file/d/1u5jtVXM_QoJbyyT_YH_RrarpGUw7TtOq/view?usp=sharing)
+https://drive.google.com/file/d/1u5jtVXM_QoJbyyT_YH_RrarpGUw7TtOq/view?usp=sharing
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
@@ -39,7 +39,7 @@ I'm a passionate Software Engineer / Backend Developer with experience in Python
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]**[(your_website_or_blog_link)](https://sites.google.com/d/1CefQTDNPxeLiHht5Xp-zJIWfBNdgbSwy/p/1ygmIjCLFfb2DyDuqaDsIhwdDVd4g4zsa/edit)
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
