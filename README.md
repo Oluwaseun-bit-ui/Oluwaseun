@@ -25,11 +25,12 @@ I'm a passionate Software Engineer / Backend Developer with experience in Python
 
 ## Featured Projects 💻
 
-### Telemedicine healthcare project https://drive.google.com/file/d/16nCp57MerFhLQ6nRIjepfOYt3z65CdOA/view?usp=sharing
+### Telemedicine healthcare project [https://drive.google.com/file/d/16nCp57MerFhLQ6nRIjepfOYt3z65CdOA/view?usp=sharing
 
-https://drive.google.com/file/d/1u5jtVXM_QoJbyyT_YH_RrarpGUw7TtOq/view?usp=sharing
+### Wireframe 
+(https://miro.com/app/board/uXjVIYS1iP8=/?share_link_id=3823525457)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+Telemedicine App (Concept Stage) is a telehealth solution wireframe and concept presentation developed as part of the ALX Software Engineering program. This project demonstrates my ability to collaborate in teams, create user-centered design wireframes, and pitch tech solutions for real-world problems in the healthcare industry You can check out the repository [here](project_1_repository_link).
 
 ### [Project 2 Title](project_2_link)
 
