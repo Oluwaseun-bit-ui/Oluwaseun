@@ -1,7 +1,7 @@
 # Oluwaseun
 # Hi there, I'm Oluwaseun Taiwo! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image] https://drive.google.com/file/d/1BH-aX53FoxbtArhZNvdFAt5Ollw5389p/view?usp=sharing
 
 ## About Me 🚀
 
