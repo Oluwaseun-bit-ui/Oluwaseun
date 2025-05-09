@@ -39,8 +39,8 @@ https://drive.google.com/file/d/1u5jtVXM_QoJbyyT_YH_RrarpGUw7TtOq/view?usp=shari
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**[(your_website_or_blog_link)](https://sites.google.com/d/1CefQTDNPxeLiHht5Xp-zJIWfBNdgbSwy/p/1ygmIjCLFfb2DyDuqaDsIhwdDVd4g4zsa/edit)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Personal Website / Blog]** https://sites.google.com/d/1CefQTDNPxeLiHht5Xp-zJIWfBNdgbSwy/p/1ygmIjCLFfb2DyDuqaDsIhwdDVd4g4zsa/edit
+- **[LinkedIn]** https://www.linkedin.com/in/oluwaseuntaiwologix/
+- **[Twitter]**[(your_twitter_profile_link)](https://x.com/oluwaseun_30005)
 
 
