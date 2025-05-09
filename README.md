@@ -27,16 +27,11 @@ I'm a passionate Software Engineer / Backend Developer with experience in Python
 
 ### Telemedicine healthcare project [https://drive.google.com/file/d/16nCp57MerFhLQ6nRIjepfOYt3z65CdOA/view?usp=sharing
 
-### Wireframe 
+### Wireframe Link and screenshot
 (https://miro.com/app/board/uXjVIYS1iP8=/?share_link_id=3823525457)
+https://drive.google.com/file/d/1cnuknm5fygZc-Kn_K4YKcOYZODF8WKKn/view?usp=sharing
 
-Telemedicine App (Concept Stage) is a telehealth solution wireframe and concept presentation developed as part of the ALX Software Engineering program. This project demonstrates my ability to collaborate in teams, create user-centered design wireframes, and pitch tech solutions for real-world problems in the healthcare industry You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+Telemedicine App (Concept Stage) is a telehealth solution wireframe and concept presentation developed as part of the ALX Software Engineering program. This project demonstrates my ability to collaborate in teams, create user-centered design wireframes, and pitch tech solutions for real-world problems in the healthcare industry You can check out the repository [here] https://github.com/Oluwaseun-bit-ui/telemedicine-app-alx
 
 ## Get in Touch 📬
 
